@@ -1,0 +1,452 @@
+1
+00:00:00,000 --> 00:00:03,590
+The history of the computer dates back to the 1800's,
+
+2
+00:00:03,610 --> 00:00:07,430
+when many scientists began to develop various computing machines.
+
+3
+00:00:07,450 --> 00:00:10,990
+However, the modern computer was developed in the 1930's,
+
+4
+00:00:11,010 --> 00:00:15,110
+when Konrad Zuse created the first programmable computer, the Z1.
+
+5
+00:00:15,130 --> 00:00:18,230
+Which could do additions and subtractions very quickly.
+
+6
+00:00:18,250 --> 00:00:21,310
+In 1941, he created the Z3,
+
+7
+00:00:21,330 --> 00:00:23,830
+known as the world's oldest digital computer.
+
+8
+00:00:23,850 --> 00:00:27,150
+Unfortunately, the computer was destroyed during World War II,
+
+9
+00:00:27,170 --> 00:00:30,990
+but later, in 1950, Konrad Zuse launched the Z4,
+
+10
+00:00:31,010 --> 00:00:33,590
+the world's first commercial digital computer.
+
+11
+00:00:33,610 --> 00:00:38,990
+Another important moment in the history and evolution of the computer was also in 1941,
+
+12
+00:00:39,010 --> 00:00:42,190
+when J.V. Atanasoff, a physics and math teacher,
+
+13
+00:00:42,210 --> 00:00:44,830
+and his student, Clifford Berry, designed a computer
+
+14
+00:00:44,850 --> 00:00:47,750
+that could solve 29 equations simultaneously.
+
+15
+00:00:47,770 --> 00:00:50,230
+However, Atanasoff-Berry Computer was the first
+
+16
+00:00:50,250 --> 00:00:53,470
+computer capable of storing data in its memory.
+
+17
+00:00:53,490 --> 00:00:58,790
+In 1944, the Harvard Mark-1 / Colossus was inaugurated,
+
+18
+00:00:58,810 --> 00:01:01,750
+a huge computer that occupies an entire room.
+
+19
+00:01:01,770 --> 00:01:04,110
+It was used during World War II to break the
+
+20
+00:01:04,130 --> 00:01:07,460
+complex Lorenz ciphers used by the Nazis.
+
+21
+00:01:07,480 --> 00:01:10,520
+Colossus offered immediate solutions and it is believed that
+
+22
+00:01:10,540 --> 00:01:13,830
+its use significantly shortened the duration of the war.
+
+23
+00:01:13,850 --> 00:01:17,110
+Another computer that stood out at the time was the ENIAC,
+
+24
+00:01:17,130 --> 00:01:20,150
+created by John Mauchly and Presper Eckert.
+
+25
+00:01:20,170 --> 00:01:23,030
+The computer was created for ballistic analysis,
+
+26
+00:01:23,050 --> 00:01:25,560
+used by the military during World War II.
+
+27
+00:01:25,580 --> 00:01:28,390
+ENIAC occupied a room of 1500 square meters,
+
+28
+00:01:28,410 --> 00:01:33,510
+weighing 30 tons and had 6000 switches and 18,000 vacuum tubes.
+
+29
+00:01:33,530 --> 00:01:36,150
+A few years later, the two built UNIVAC,
+
+30
+00:01:36,170 --> 00:01:40,390
+the first commercial computer for business and government applications.
+
+31
+00:01:40,410 --> 00:01:43,270
+Another important step in the evolution of computers
+
+32
+00:01:43,290 --> 00:01:46,670
+was the time when transistors replaced vacuum tubes.
+
+33
+00:01:46,690 --> 00:01:50,230
+Thus, in 1953, the first prototype computer
+
+34
+00:01:50,250 --> 00:01:53,790
+with transistors was created, "Manchester TC".
+
+35
+00:01:53,810 --> 00:01:56,950
+In 1953, Grace Hopper developed the
+
+36
+00:01:56,970 --> 00:01:59,190
+first computer language, called COBOL.
+
+37
+00:01:59,210 --> 00:02:03,990
+At the same time, IBM created its first computer, called the IBM 701.
+
+38
+00:02:04,010 --> 00:02:08,230
+In the early 1960's, IBM launched the 7000 series
+
+39
+00:02:08,250 --> 00:02:10,950
+of mainframe computers that used transistors.
+
+40
+00:02:10,970 --> 00:02:15,070
+The 7030 model, also called Stretch, was part of this series,
+
+41
+00:02:15,090 --> 00:02:18,710
+with nine such computers being sold to scientific laboratories.
+
+42
+00:02:18,730 --> 00:02:20,950
+The technologies used for this computer
+
+43
+00:02:20,970 --> 00:02:24,010
+led to the development of the IBM 360,
+
+44
+00:02:24,030 --> 00:02:26,950
+IBM's most successful series of computers.
+
+45
+00:02:26,970 --> 00:02:29,110
+Slowly, the evolution of the computer
+
+46
+00:02:29,130 --> 00:02:31,070
+was approaching what we know today to be.
+
+47
+00:02:31,090 --> 00:02:35,230
+In 1965, Program 101 was the first desktop
+
+48
+00:02:35,250 --> 00:02:37,150
+computer sold to the general public.
+
+49
+00:02:37,170 --> 00:02:40,630
+It cost $3200, was the size of a typewriter,
+
+50
+00:02:40,650 --> 00:02:43,510
+had 37 keys and a built-in printer.
+
+51
+00:02:43,530 --> 00:02:46,930
+At the same time, the world's first 16-bit commercial
+
+52
+00:02:46,950 --> 00:02:53,390
+microcomputer, the DDP-116, was developed and sold for $28,500.
+
+53
+00:02:53,410 --> 00:02:57,620
+The year 1970 is marked by Intel, which launches
+
+54
+00:02:57,640 --> 00:03:02,750
+Intel 1103, the first dynamic access memory chip, DRAM.
+
+55
+00:03:02,770 --> 00:03:05,830
+A year later, IBM invented the floppy disk,
+
+56
+00:03:05,850 --> 00:03:08,670
+which allows data to be shared between computers.
+
+57
+00:03:08,690 --> 00:03:11,550
+Now, who hasn't heard of Altair 8800?!
+
+58
+00:03:11,570 --> 00:03:15,470
+It was launched in 1975 and used the BASIC programming
+
+59
+00:03:15,490 --> 00:03:18,480
+language, developed by Bill Gates and Paul Allen.
+
+60
+00:03:18,500 --> 00:03:22,470
+Altair 8800 was very popular computer, being the model
+
+61
+00:03:22,490 --> 00:03:25,110
+that invented the term "personal computer".
+
+62
+00:03:25,130 --> 00:03:29,910
+In 1976, Apple appeared on the computer market with the Apple I,
+
+63
+00:03:29,930 --> 00:03:32,990
+the first computer with a single-circuit board and ROM,
+
+64
+00:03:33,010 --> 00:03:36,910
+to which you had to add a keyboard, a power supply and a case.
+
+65
+00:03:36,930 --> 00:03:41,190
+A year later, they launched Apple II, which was a great success.
+
+66
+00:03:41,210 --> 00:03:44,590
+It was an 8-bit computer and came with a switching power supply,
+
+67
+00:03:44,610 --> 00:03:47,150
+keyboard, case, manual, game paddles,
+
+68
+00:03:47,170 --> 00:03:49,630
+and a box containing the Breakout game.
+
+69
+00:03:49,650 --> 00:03:53,910
+In 1981, IBM launched the first IBM PC,
+
+70
+00:03:53,930 --> 00:03:57,430
+officially known as the IBM Model 5150.
+
+71
+00:03:57,450 --> 00:04:02,590
+It was based on a 4.77 MHz Intel 8088 microprocessor
+
+72
+00:04:02,610 --> 00:04:05,830
+and used the Microsoft MS-DOS operating system.
+
+73
+00:04:05,850 --> 00:04:09,590
+This was the computer that revolutionized the development of computers,
+
+74
+00:04:09,610 --> 00:04:12,390
+being cloned on a large scale and thus generating
+
+75
+00:04:12,410 --> 00:04:15,590
+the creation of many software and peripherals.
+
+76
+00:04:15,610 --> 00:04:19,070
+Apple launched Apple Lisa in 1983,
+
+77
+00:04:19,090 --> 00:04:22,510
+the first personal computer to have a graphical user interface.
+
+78
+00:04:22,530 --> 00:04:24,710
+It had a drop-down menu and icons,
+
+79
+00:04:24,730 --> 00:04:27,080
+a Motorola 68000 microprocessor,
+
+80
+00:04:27,100 --> 00:04:31,240
+1 MB of RAM, a 12-inch black and white monitor,
+
+81
+00:04:31,260 --> 00:04:34,990
+dual floppy disk drives, and a 5 MB hard drive.
+
+82
+00:04:35,010 --> 00:04:38,190
+A year later, Apple introduced the Macintosh,
+
+83
+00:04:38,210 --> 00:04:42,350
+the first successful computer mouse with a graphical user interface
+
+84
+00:04:42,370 --> 00:04:46,270
+and based on the Motorola 68000 microprocessor.
+
+85
+00:04:46,290 --> 00:04:49,990
+In 1984, Michael Dell created PC's Limited,
+
+86
+00:04:50,010 --> 00:04:53,910
+where he developed the first self-designed computer called the Turbo PC.
+
+87
+00:04:53,930 --> 00:04:58,110
+In the early 1990's, Dell was one of the leading computer developers.
+
+88
+00:04:58,130 --> 00:05:02,030
+In 1987, IBM released Personal System 2,
+
+89
+00:05:02,050 --> 00:05:05,910
+the first IBM system with the Intel 80386 chip.
+
+90
+00:05:05,930 --> 00:05:09,510
+The computer also came with a new operating system, OS2,
+
+91
+00:05:09,530 --> 00:05:13,630
+which for the first time allowed the use of a mouse for IBM computers.
+
+92
+00:05:13,650 --> 00:05:17,630
+The 1990s were marked by an innovation introduced by Apple.
+
+93
+00:05:17,650 --> 00:05:22,990
+Their new iMac, the 1998 G3, came with a clear, customizable case.
+
+94
+00:05:23,010 --> 00:05:28,050
+It was sold for $1,300, and included a 4GB hard drive,
+
+95
+00:05:28,070 --> 00:05:31,990
+32MB Ram, a CD-ROM, and a 15-inch monitor.
+
+96
+00:05:32,010 --> 00:05:34,270
+Apple also marks the 2000s.
+
+97
+00:05:34,290 --> 00:05:39,910
+In 2003, it launched the Apple G5, the most powerful Macintosh to date.
+
+98
+00:05:39,930 --> 00:05:42,590
+The computer had anodized aluminum case and was
+
+99
+00:05:42,610 --> 00:05:45,750
+named the first true 64-bit personal computer.
+
+100
+00:05:45,770 --> 00:05:49,310
+So, in the 1990's, with the advent of the Internet,
+
+101
+00:05:49,330 --> 00:05:52,550
+personal computers began to be widely used in all fields.
+
+102
+00:05:52,570 --> 00:05:54,910
+Gradually, computers evolved drastically,
+
+103
+00:05:54,930 --> 00:05:57,270
+both in terms of design and performance.
+
+104
+00:05:57,290 --> 00:06:01,030
+Thus, the market for computer components began to grow more and more,
+
+105
+00:06:01,050 --> 00:06:05,550
+with users being able to create their own PC system according to their own needs.
+
+106
+00:06:05,570 --> 00:06:08,550
+Moreover, it is incredible how from computers that
+
+107
+00:06:08,570 --> 00:06:12,270
+occupied an entire room and performed very simple actions,
+
+108
+00:06:12,290 --> 00:06:16,230
+technology has come to offer us today very small PCs
+
+109
+00:06:16,250 --> 00:06:19,670
+such as the APPLE Mac mini Desktop PC system,
+
+110
+00:06:19,690 --> 00:06:24,470
+which offers very high performance when working or doing a gaming session.
+
+111
+00:06:24,490 --> 00:06:28,390
+So, we have all the evidence that technology is not standing still,
+
+112
+00:06:28,410 --> 00:06:31,190
+but constantly evolving from day to day.
+
+113
+00:06:31,210 --> 00:06:35,340
+What do you think computers will look like in the coming years?
+

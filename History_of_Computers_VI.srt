@@ -1,0 +1,452 @@
+1
+00:00:00,000 --> 00:00:03,590
+Lịch sử của máy tính bắt nguồn từ những năm 1800,
+
+2
+00:00:03,610 --> 00:00:07,430
+khi nhiều nhà khoa học bắt đầu phát triển các loại máy tính khác nhau.
+
+3
+00:00:07,450 --> 00:00:10,990
+Tuy nhiên, máy tính hiện đại được phát triển vào những năm 1930,
+
+4
+00:00:11,010 --> 00:00:15,110
+khi Konrad Zuse tạo ra chiếc máy tính có thể lập trình đầu tiên – Z1.
+
+5
+00:00:15,130 --> 00:00:18,230
+Nó có thể thực hiện các phép cộng và trừ rất nhanh.
+
+6
+00:00:18,250 --> 00:00:21,310
+Năm 1941, ông tạo ra Z3,
+
+7
+00:00:21,330 --> 00:00:23,830
+được xem là máy tính kỹ thuật số lâu đời nhất thế giới.
+
+8
+00:00:23,850 --> 00:00:27,150
+Đáng tiếc là chiếc máy tính này bị phá hủy trong Thế chiến II,
+
+9
+00:00:27,170 --> 00:00:30,990
+nhưng sau đó, vào năm 1950, Konrad Zuse đã ra mắt Z4,
+
+10
+00:00:31,010 --> 00:00:33,590
+chiếc máy tính kỹ thuật số thương mại đầu tiên trên thế giới.
+
+11
+00:00:33,610 --> 00:00:38,990
+Một cột mốc quan trọng khác trong lịch sử phát triển của máy tính cũng diễn ra vào năm 1941,
+
+12
+00:00:39,010 --> 00:00:42,190
+khi J.V. Atanasoff – một giáo viên vật lý và toán học,
+
+13
+00:00:42,210 --> 00:00:44,830
+cùng với sinh viên của ông là Clifford Berry, đã thiết kế một chiếc máy tính
+
+14
+00:00:44,850 --> 00:00:47,750
+có thể giải đồng thời 29 phương trình.
+
+15
+00:00:47,770 --> 00:00:50,230
+Chiếc máy tính Atanasoff–Berry là máy đầu tiên
+
+16
+00:00:50,250 --> 00:00:53,470
+có khả năng lưu trữ dữ liệu trong bộ nhớ.
+
+17
+00:00:53,490 --> 00:00:58,790
+Năm 1944, Harvard Mark-1 / Colossus được khánh thành,
+
+18
+00:00:58,810 --> 00:01:01,750
+một chiếc máy tính khổng lồ chiếm trọn cả căn phòng.
+
+19
+00:01:01,770 --> 00:01:04,110
+Nó được sử dụng trong Thế chiến II để giải mã
+
+20
+00:01:04,130 --> 00:01:07,460
+các mật mã Lorenz phức tạp mà Đức Quốc Xã sử dụng.
+
+21
+00:01:07,480 --> 00:01:10,520
+Colossus có thể cung cấp kết quả ngay lập tức và người ta tin rằng
+
+22
+00:01:10,540 --> 00:01:13,830
+việc sử dụng nó đã góp phần rút ngắn đáng kể thời gian chiến tranh.
+
+23
+00:01:13,850 --> 00:01:17,110
+Một máy tính nổi bật khác vào thời điểm đó là ENIAC,
+
+24
+00:01:17,130 --> 00:01:20,150
+được tạo ra bởi John Mauchly và Presper Eckert.
+
+25
+00:01:20,170 --> 00:01:23,030
+Chiếc máy này được chế tạo để phục vụ việc phân tích đạn đạo,
+
+26
+00:01:23,050 --> 00:01:25,560
+được quân đội sử dụng trong Thế chiến II.
+
+27
+00:01:25,580 --> 00:01:28,390
+ENIAC chiếm diện tích 1500 mét vuông,
+
+28
+00:01:28,410 --> 00:01:33,510
+nặng 30 tấn, có 6.000 công tắc và 18.000 đèn điện tử chân không.
+
+29
+00:01:33,530 --> 00:01:36,150
+Vài năm sau, hai ông đã chế tạo UNIVAC,
+
+30
+00:01:36,170 --> 00:01:40,390
+máy tính thương mại đầu tiên phục vụ cho doanh nghiệp và chính phủ.
+
+31
+00:01:40,410 --> 00:01:43,270
+Một bước tiến quan trọng khác trong sự phát triển của máy tính
+
+32
+00:01:43,290 --> 00:01:46,670
+là khi transistor thay thế đèn điện tử chân không.
+
+33
+00:01:46,690 --> 00:01:50,230
+Do đó, vào năm 1953, nguyên mẫu máy tính đầu tiên
+
+34
+00:01:50,250 --> 00:01:53,790
+sử dụng transistor đã được tạo ra – “Manchester TC”.
+
+35
+00:01:53,810 --> 00:01:56,950
+Cũng trong năm 1953, Grace Hopper phát triển
+
+36
+00:01:56,970 --> 00:01:59,190
+ngôn ngữ lập trình đầu tiên, gọi là COBOL.
+
+37
+00:01:59,210 --> 00:02:03,990
+Đồng thời, IBM cũng tạo ra máy tính đầu tiên của hãng – IBM 701.
+
+38
+00:02:04,010 --> 00:02:08,230
+Đầu thập niên 1960, IBM cho ra mắt dòng máy tính 7000
+
+39
+00:02:08,250 --> 00:02:10,950
+thuộc nhóm máy tính lớn (mainframe) sử dụng transistor.
+
+40
+00:02:10,970 --> 00:02:15,070
+Mẫu 7030, còn gọi là Stretch, nằm trong dòng sản phẩm này,
+
+41
+00:02:15,090 --> 00:02:18,710
+với chín chiếc được bán cho các phòng thí nghiệm khoa học.
+
+42
+00:02:18,730 --> 00:02:20,950
+Các công nghệ được sử dụng cho máy tính này
+
+43
+00:02:20,970 --> 00:02:24,010
+đã dẫn đến sự ra đời của IBM 360,
+
+44
+00:02:24,030 --> 00:02:26,950
+dòng máy tính thành công nhất của IBM.
+
+45
+00:02:26,970 --> 00:02:29,110
+Dần dần, sự phát triển của máy tính
+
+46
+00:02:29,130 --> 00:02:31,070
+đã tiến gần đến hình thức mà chúng ta biết ngày nay.
+
+47
+00:02:31,090 --> 00:02:35,230
+Năm 1965, Program 101 là máy tính để bàn đầu tiên
+
+48
+00:02:35,250 --> 00:02:37,150
+được bán ra cho công chúng.
+
+49
+00:02:37,170 --> 00:02:40,630
+Nó có giá 3.200 USD, kích thước tương đương máy đánh chữ,
+
+50
+00:02:40,650 --> 00:02:43,510
+có 37 phím và máy in tích hợp.
+
+51
+00:02:43,530 --> 00:02:46,930
+Cùng thời điểm đó, chiếc máy tính thương mại 16-bit đầu tiên trên thế giới
+
+52
+00:02:46,950 --> 00:02:53,390
+mang tên DDP-116 được phát triển và bán với giá 28.500 USD.
+
+53
+00:02:53,410 --> 00:02:57,620
+Năm 1970 ghi dấu ấn của Intel với việc ra mắt
+
+54
+00:02:57,640 --> 00:03:02,750
+Intel 1103 – chip bộ nhớ truy cập động (DRAM) đầu tiên.
+
+55
+00:03:02,770 --> 00:03:05,830
+Một năm sau, IBM phát minh ra đĩa mềm (floppy disk),
+
+56
+00:03:05,850 --> 00:03:08,670
+cho phép chia sẻ dữ liệu giữa các máy tính.
+
+57
+00:03:08,690 --> 00:03:11,550
+Giờ đây, ai mà chưa từng nghe đến Altair 8800?!
+
+58
+00:03:11,570 --> 00:03:15,470
+Nó được ra mắt năm 1975 và sử dụng ngôn ngữ lập trình BASIC
+
+59
+00:03:15,490 --> 00:03:18,480
+do Bill Gates và Paul Allen phát triển.
+
+60
+00:03:18,500 --> 00:03:22,470
+Altair 8800 là máy tính cực kỳ phổ biến, được xem là mẫu máy
+
+61
+00:03:22,490 --> 00:03:25,110
+khai sinh ra thuật ngữ “máy tính cá nhân”.
+
+62
+00:03:25,130 --> 00:03:29,910
+Năm 1976, Apple gia nhập thị trường máy tính với Apple I,
+
+63
+00:03:29,930 --> 00:03:32,990
+chiếc máy đầu tiên có bo mạch đơn và bộ nhớ ROM,
+
+64
+00:03:33,010 --> 00:03:36,910
+người dùng cần gắn thêm bàn phím, bộ nguồn và vỏ máy.
+
+65
+00:03:36,930 --> 00:03:41,190
+Một năm sau, họ cho ra mắt Apple II, đạt thành công vang dội.
+
+66
+00:03:41,210 --> 00:03:44,590
+Đây là máy tính 8-bit có bộ nguồn chuyển mạch,
+
+67
+00:03:44,610 --> 00:03:47,150
+bàn phím, vỏ máy, hướng dẫn sử dụng, tay cầm chơi game,
+
+68
+00:03:47,170 --> 00:03:49,630
+và một hộp chứa trò chơi Breakout.
+
+69
+00:03:49,650 --> 00:03:53,910
+Năm 1981, IBM phát hành chiếc PC đầu tiên –
+
+70
+00:03:53,930 --> 00:03:57,430
+chính thức gọi là IBM Model 5150.
+
+71
+00:03:57,450 --> 00:04:02,590
+Nó sử dụng bộ vi xử lý Intel 8088 tốc độ 4,77 MHz
+
+72
+00:04:02,610 --> 00:04:05,830
+và chạy hệ điều hành MS-DOS của Microsoft.
+
+73
+00:04:05,850 --> 00:04:09,590
+Đây là chiếc máy tính đã tạo ra cuộc cách mạng trong ngành,
+
+74
+00:04:09,610 --> 00:04:12,390
+được sao chép rộng rãi, từ đó thúc đẩy
+
+75
+00:04:12,410 --> 00:04:15,590
+sự ra đời của hàng loạt phần mềm và thiết bị ngoại vi.
+
+76
+00:04:15,610 --> 00:04:19,070
+Năm 1983, Apple ra mắt Apple Lisa,
+
+77
+00:04:19,090 --> 00:04:22,510
+chiếc máy tính cá nhân đầu tiên có giao diện đồ họa người dùng (GUI).
+
+78
+00:04:22,530 --> 00:04:24,710
+Nó có menu thả xuống và các biểu tượng,
+
+79
+00:04:24,730 --> 00:04:27,080
+bộ vi xử lý Motorola 68000,
+
+80
+00:04:27,100 --> 00:04:31,240
+RAM 1 MB, màn hình trắng đen 12 inch,
+
+81
+00:04:31,260 --> 00:04:34,990
+hai ổ đĩa mềm và ổ cứng 5 MB.
+
+82
+00:04:35,010 --> 00:04:38,190
+Một năm sau, Apple giới thiệu Macintosh,
+
+83
+00:04:38,210 --> 00:04:42,350
+chiếc máy tính đầu tiên thành công với chuột và giao diện đồ họa
+
+84
+00:04:42,370 --> 00:04:46,270
+dựa trên bộ xử lý Motorola 68000.
+
+85
+00:04:46,290 --> 00:04:49,990
+Năm 1984, Michael Dell thành lập PC’s Limited,
+
+86
+00:04:50,010 --> 00:04:53,910
+nơi ông phát triển chiếc máy tính tự thiết kế đầu tiên mang tên Turbo PC.
+
+87
+00:04:53,930 --> 00:04:58,110
+Đầu thập niên 1990, Dell trở thành một trong những nhà sản xuất máy tính hàng đầu.
+
+88
+00:04:58,130 --> 00:05:02,030
+Năm 1987, IBM phát hành Personal System 2,
+
+89
+00:05:02,050 --> 00:05:05,910
+hệ thống IBM đầu tiên sử dụng chip Intel 80386.
+
+90
+00:05:05,930 --> 00:05:09,510
+Máy tính này cũng được cài hệ điều hành mới – OS2,
+
+91
+00:05:09,530 --> 00:05:13,630
+lần đầu tiên cho phép sử dụng chuột trên máy tính IBM.
+
+92
+00:05:13,650 --> 00:05:17,630
+Thập niên 1990 được đánh dấu bởi đổi mới từ Apple.
+
+93
+00:05:17,650 --> 00:05:22,990
+Mẫu iMac G3 ra mắt năm 1998 có vỏ trong suốt và tùy chỉnh màu sắc.
+
+94
+00:05:23,010 --> 00:05:28,050
+Nó được bán với giá 1.300 USD, đi kèm ổ cứng 4 GB,
+
+95
+00:05:28,070 --> 00:05:31,990
+RAM 32 MB, ổ CD-ROM và màn hình 15 inch.
+
+96
+00:05:32,010 --> 00:05:34,270
+Apple tiếp tục ghi dấu trong thập niên 2000.
+
+97
+00:05:34,290 --> 00:05:39,910
+Năm 2003, Apple ra mắt Apple G5 – chiếc Macintosh mạnh nhất thời điểm đó.
+
+98
+00:05:39,930 --> 00:05:42,590
+Máy có vỏ nhôm anod hóa và được
+
+99
+00:05:42,610 --> 00:05:45,750
+mệnh danh là máy tính cá nhân 64-bit đầu tiên thực sự.
+
+100
+00:05:45,770 --> 00:05:49,310
+Như vậy, vào thập niên 1990, với sự xuất hiện của Internet,
+
+101
+00:05:49,330 --> 00:05:52,550
+máy tính cá nhân bắt đầu được sử dụng rộng rãi trong mọi lĩnh vực.
+
+102
+00:05:52,570 --> 00:05:54,910
+Dần dần, máy tính đã phát triển vượt bậc,
+
+103
+00:05:54,930 --> 00:05:57,270
+cả về thiết kế lẫn hiệu năng.
+
+104
+00:05:57,290 --> 00:06:01,030
+Do đó, thị trường linh kiện máy tính ngày càng phát triển,
+
+105
+00:06:01,050 --> 00:06:05,550
+người dùng có thể tự lắp ráp hệ thống PC theo nhu cầu riêng.
+
+106
+00:06:05,570 --> 00:06:08,550
+Thật đáng kinh ngạc khi từ những máy tính từng
+
+107
+00:06:08,570 --> 00:06:12,270
+chiếm trọn cả căn phòng và chỉ thực hiện vài thao tác đơn giản,
+
+108
+00:06:12,290 --> 00:06:16,230
+công nghệ nay đã mang đến những chiếc PC nhỏ gọn
+
+109
+00:06:16,250 --> 00:06:19,670
+như hệ thống Mac mini Desktop của Apple,
+
+110
+00:06:19,690 --> 00:06:24,470
+có hiệu năng rất cao cho công việc hoặc chơi game.
+
+111
+00:06:24,490 --> 00:06:28,390
+Như vậy, rõ ràng công nghệ không hề đứng yên,
+
+112
+00:06:28,410 --> 00:06:31,190
+mà liên tục phát triển từng ngày.
+
+113
+00:06:31,210 --> 00:06:35,340
+Bạn nghĩ rằng máy tính trong những năm tới sẽ trông như thế nào?
+
